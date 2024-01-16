@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  background-color: rgb(26, 8, 106);
+} 
+ul{
+    list-style-type: none;
+    text-decoration: none;
+}
+a{
+    
+
+}
+li,a{
+    color: aqua;
+    text-decoration: none;
+}
+     
+
+img{
+    width: 60px;
+    mix-blend-mode: darken;
+    float: left; 
+    
+}
+li{
+    float: left;
+    margin: 25px 10px;
+
+   
+}
+h1{
+    color: aqua;
+    display: inline;
+    float: left;
+    margin-right: 20px;
+    margin-left: 0px;
+}
+nav{
+    position: relative;
+    top: 0%;
+}
+
